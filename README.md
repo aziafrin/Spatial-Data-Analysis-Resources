@@ -5,3 +5,4 @@ Roger S. Bivand, Edzer J. Pebesma, Virgilio Gómez-Rubio
 [Spatial Analysis With R.pdf](https://github.com/user-attachments/files/29449683/Spatial.Analysis.With.R.pdf)
 
 Geographically Weighted Regression
+[GWR.pdf](https://github.com/user-attachments/files/29449709/GWR.pdf)
