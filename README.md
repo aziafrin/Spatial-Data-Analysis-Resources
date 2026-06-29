@@ -9,13 +9,13 @@ Geographically Weighted Regression
 
 ## Textbooks
 
-Bivand R, Pebesma EJ, Gómez-Rubio V. (2008). Applied spatial data analysis using R. Heidelberg: Springer. : http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf(link is external and opens in a new window)
+1. Bivand R, Pebesma EJ, Gómez-Rubio V. (2008). Applied spatial data analysis using R. Heidelberg: Springer. : http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf(link is external and opens in a new window)
 
-Fotheringham AS, Brundson C, and Charlton M. (2002). Geographically weighted regression: The analysis of spatially varying relationships. West Sussex, England: John Wiley and Sons, Ltd.
+2. Fotheringham AS, Brundson C, and Charlton M. (2002). Geographically weighted regression: The analysis of spatially varying relationships. West Sussex, England: John Wiley and Sons, Ltd.
 
-Goovaerts P. (2008). Geostatitical Analysis of Health Data: State-of-the-Art and Perspectives. Soares A, Pereira MJ, & Dimitrakopolous R (Eds.) Proceedings of the Sixth European Conferences on Geostatistics for Environmental Applications (pp. 3-22). Heidelberg: Springer. Accessed directly through SpringerLink: https://link.springer.com/book/10.1007/978-1-4020-6448-7(link is external and opens in a new window)
+3. Goovaerts P. (2008). Geostatitical Analysis of Health Data: State-of-the-Art and Perspectives. Soares A, Pereira MJ, & Dimitrakopolous R (Eds.) Proceedings of the Sixth European Conferences on Geostatistics for Environmental Applications (pp. 3-22). Heidelberg: Springer. Accessed directly through SpringerLink: https://link.springer.com/book/10.1007/978-1-4020-6448-7(link is external and opens in a new window)
 
-Mitchell A. (2012). ESRI Guide to GIS Analysis, Volume 2: Spatial Measurements and Statistics. New York: ESRI Press.
+4. Mitchell A. (2012). ESRI Guide to GIS Analysis, Volume 2: Spatial Measurements and Statistics. New York: ESRI Press.
 
 ## Chapters
 
